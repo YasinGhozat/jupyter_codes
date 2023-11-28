@@ -1,2 +1,2 @@
 # jupyter_codes
-Codes that you might need for uni project(mabani barname nevisi)
+Codes that you might need for university project(mabani barname nevisi)
